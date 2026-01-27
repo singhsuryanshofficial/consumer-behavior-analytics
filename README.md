@@ -23,7 +23,7 @@ Key business challenges addressed in this project include:
 ---
 
 ## Business Objectives
-The primary objectives of this project were to:
+The primary objectives of this project were to :
 
 - Analyze consumer purchasing behavior  
 - Identify revenue drivers and high-performing segments  

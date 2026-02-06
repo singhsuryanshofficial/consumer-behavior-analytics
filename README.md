@@ -73,6 +73,8 @@ Power BI Service Deployment
 Power BI App (Desktop & Mobile Views)
 ```
 
+---
+
 ## Data Preparation & Feature Engineering
 
 ### Data Cleaning
@@ -123,10 +125,14 @@ The dashboard was deployed through **Power BI App**, providing a secure and user
 - High-level consumer segmentation
 - Promotion utilization overview
 
+![Desktop Page 1](https://raw.githubusercontent.com/singhsuryanshofficial/consumer-behavior-analytics/main/5.%20PowerBI%20dashboard%20screenshots/Desktop%20Page%201.png)
+
 ### Revenue Analysis
 - Revenue by category and season
 - Revenue contribution by gender and age group
 - Subscription impact on spending
+
+![Desktop Page 2](https://raw.githubusercontent.com/singhsuryanshofficial/consumer-behavior-analytics/main/5.%20PowerBI%20dashboard%20screenshots/Desktop%20Page%202.png)
 
 ### Product Performance
 - Top revenue-generating products
@@ -134,10 +140,14 @@ The dashboard was deployed through **Power BI App**, providing a secure and user
 - Payment method preferences
 - Shipping type impact on purchase value
 
+![Desktop Page 3](https://raw.githubusercontent.com/singhsuryanshofficial/consumer-behavior-analytics/main/5.%20PowerBI%20dashboard%20screenshots/Desktop%20Page%203.png)
+
 ### Transaction-Level Analysis
 - Detailed transaction table
 - Multi-dimensional filtering
 - Data validation and exploration support
+
+![Desktop Page 4](https://raw.githubusercontent.com/singhsuryanshofficial/consumer-behavior-analytics/main/5.%20PowerBI%20dashboard%20screenshots/Desktop%20Page%204.png)
 
 ---
 
@@ -152,6 +162,14 @@ A dedicated mobile layout was developed to support executive-level consumption.
 - Consistent branding with desktop dashboards
 
 This ensures accessibility of insights anytime through the Power BI mobile application.
+
+![Mobile Page 1](https://raw.githubusercontent.com/singhsuryanshofficial/consumer-behavior-analytics/main/5.%20PowerBI%20dashboard%20screenshots/Mobile%20Page%201.jpg)
+
+![Mobile Page 2](https://raw.githubusercontent.com/singhsuryanshofficial/consumer-behavior-analytics/main/5.%20PowerBI%20dashboard%20screenshots/Mobile%20Page%202.jpg)
+
+![Mobile Page 3](https://raw.githubusercontent.com/singhsuryanshofficial/consumer-behavior-analytics/main/5.%20PowerBI%20dashboard%20screenshots/Mobile%20Page%203.jpg)
+
+![Mobile Page 4](https://raw.githubusercontent.com/singhsuryanshofficial/consumer-behavior-analytics/main/5.%20PowerBI%20dashboard%20screenshots/Mobile%20Page%204.jpg)
 
 ---
 

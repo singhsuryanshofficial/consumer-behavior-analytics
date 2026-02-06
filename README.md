@@ -165,12 +165,6 @@ This ensures accessibility of insights anytime through the Power BI mobile appli
 
 ![Mobile Page 1](https://raw.githubusercontent.com/singhsuryanshofficial/consumer-behavior-analytics/main/5.%20PowerBI%20dashboard%20screenshots/Mobile%20Page%201.jpg)
 
-![Mobile Page 2](https://raw.githubusercontent.com/singhsuryanshofficial/consumer-behavior-analytics/main/5.%20PowerBI%20dashboard%20screenshots/Mobile%20Page%202.jpg)
-
-![Mobile Page 3](https://raw.githubusercontent.com/singhsuryanshofficial/consumer-behavior-analytics/main/5.%20PowerBI%20dashboard%20screenshots/Mobile%20Page%203.jpg)
-
-![Mobile Page 4](https://raw.githubusercontent.com/singhsuryanshofficial/consumer-behavior-analytics/main/5.%20PowerBI%20dashboard%20screenshots/Mobile%20Page%204.jpg)
-
 ---
 
 ## Key Business Insights
